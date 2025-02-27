@@ -1,7 +1,7 @@
 ### Soon to be greatest coder here ;) 
 
 - 🔭 I’m currently working on Assingments and side projects.
-- 🌱 I’m currently learning DSA as a first year CS student!
+- 🌱 I’m learning DSA as a second year CS student!
 - 👯 I will look for collaborations on my side projects soon.
 - 📫 How to reach me: text me on instagram. @fahim.sdn
 
