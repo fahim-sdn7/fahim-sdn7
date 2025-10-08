@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Assingments and side projects.
 - 🌱 I’m a Final year CS student always ready to learn!
 - 👯 I will look for collaborations on my side projects soon.
-- 📫 How to reach me: text me on instagram. @fahim.sdn
+- 📫 How to reach me: text me on X. [@DevModeFahim](https://x.com/DevModeFahim)
 
 <!--
 **fahim-sdn7/fahim-sdn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
